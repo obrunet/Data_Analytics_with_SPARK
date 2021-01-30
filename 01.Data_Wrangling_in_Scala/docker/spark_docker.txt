@@ -1,0 +1,5 @@
+docker run -it --rm -v `pwd`:/src -p 8888:8888 jupyter/all-spark-notebook
+docker run -it --rm -v /home/sunflowa/Desktop/Certif_Spark/docker:/src -p 8888:8888 jupyter/all-spark-notebook
+/home/sunflowa/Desktop/Certif_Spark/docker/
+test
+spylon-kernel
